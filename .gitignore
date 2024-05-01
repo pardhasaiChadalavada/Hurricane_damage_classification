@@ -1,2 +1,6 @@
 vevn/
 image_classification_model/
+env
+.env
+venv
+__pycache__
