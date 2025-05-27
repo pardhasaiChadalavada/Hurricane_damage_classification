@@ -2,3 +2,4 @@ vevn/
 venv/
 image_classification_model/
 *keras
+*png
